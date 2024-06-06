@@ -1,0 +1,29 @@
+{
+  "name": "firstparcelapp",
+  "version": "1.0.0",
+  "description": "\"first parcel react app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ParcelApp"
+  },
+  "keywords": [
+    "\"React",
+    "App",
+    "Parcel",
+    "App",
+    "\""
+  ],
+  "author": "\"Adnan Khan\"",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
